@@ -21,15 +21,19 @@ save the file to gshop.db or a name of your choice
 
 #Load & Edit a Database
 
-*start sGSHOPedit
+start sGSHOPedit
+
 load your database file (i.e. gshop.db)
+
 edit the categories and entries like in the old version
 
 
 #Export a Database
 
-*start sGSHOPedit
+start sGSHOPedit
+
 load your database file (i.e. gshop.db)
+
 export one client 1.4.4 file
-export one server 1.4.4 file
-put the client file into your client and the server file on your server
+
+export one server 1.4.4 file put the client file into your client and the server file on your server
