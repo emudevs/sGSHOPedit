@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sGSHOPedit", "sGSHOPedit.csproj", "{CEB46467-55D2-4906-9E7A-42088D4F116D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB46467-55D2-4906-9E7A-42088D4F116D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB46467-55D2-4906-9E7A-42088D4F116D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB46467-55D2-4906-9E7A-42088D4F116D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB46467-55D2-4906-9E7A-42088D4F116D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
