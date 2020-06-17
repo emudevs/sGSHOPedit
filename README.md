@@ -13,21 +13,23 @@ sGSHOPedit now uses it's own database file which contains all informations (clie
 #Create a new Database
 
 *start sGSHOPedit
-*import an existing gshop.data (1.4.4 client preferred)
-*save the file to gshop.db or a name of your choice
+
+import an existing gshop.data (1.4.4 client preferred)
+
+save the file to gshop.db or a name of your choice
 
 
 #Load & Edit a Database
 
 *start sGSHOPedit
-*load your database file (i.e. gshop.db)
-*edit the categories and entries like in the old version
+load your database file (i.e. gshop.db)
+edit the categories and entries like in the old version
 
 
 #Export a Database
 
 *start sGSHOPedit
-*load your database file (i.e. gshop.db)
-*export one client 1.4.4 file
-*export one server 1.4.4 file
-*put the client file into your client and the server file on your server
+load your database file (i.e. gshop.db)
+export one client 1.4.4 file
+export one server 1.4.4 file
+put the client file into your client and the server file on your server
