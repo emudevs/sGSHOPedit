@@ -6,20 +6,20 @@ this is a branch of sGSHOPedit from pwtools for working with version 1.4.2 or ab
 [UPDATED]
 + added support for server/client
 
-#Quick Start Tutorial
+# Quick Start Tutorial
 
 sGSHOPedit now uses it's own database file which contains all informations (client and server files complement each other, so they are a inconsistent base for editing...)
 
-#Create a new Database
+# Create a new Database
 
-*start sGSHOPedit
+start sGSHOPedit
 
 import an existing gshop.data (1.4.4 client preferred)
 
 save the file to gshop.db or a name of your choice
 
 
-#Load & Edit a Database
+# Load & Edit a Database
 
 start sGSHOPedit
 
@@ -28,7 +28,7 @@ load your database file (i.e. gshop.db)
 edit the categories and entries like in the old version
 
 
-#Export a Database
+# Export a Database
 
 start sGSHOPedit
 
